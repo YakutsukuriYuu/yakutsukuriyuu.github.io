@@ -1,0 +1,172 @@
+{
+  "main": {
+    "id": "a20dfc19bb1a8081",
+    "type": "split",
+    "children": [
+      {
+        "id": "861dec37031756cc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d632272aaa952d11",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "考研/851and881/C++排序算法的实现.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "36f85a537121f7f6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "考研/851and881/测试.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0826e62c75eeb07b",
+    "type": "split",
+    "children": [
+      {
+        "id": "c6e80c625f84ef2a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ee00f73f650cefd9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7e48051ee6974bb4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "574d5d917f10efb1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e8d65ce42890ed49",
+    "type": "split",
+    "children": [
+      {
+        "id": "7d22f4da1e6b4d91",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "357b396d7edc2dd5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "考研/851and881/测试.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f9f4e8048a6f3ec4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "考研/851and881/测试.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1779c3e781f6277e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "bfa22ad6927878b0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "考研/851and881/测试.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "ee00f73f650cefd9",
+  "lastOpenFiles": [
+    "考研/851and881/C++排序算法的实现.md",
+    "考研/851and881/测试.md",
+    "算法/算法模版/矩阵加速模版.md",
+    "算法/算法模版/树状数组模版.md",
+    "算法/算法模版/线段树模版.md",
+    "2024-06-02.md",
+    "文档/课程资料/软件测试一页开卷.md"
+  ]
+}
