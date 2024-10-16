@@ -14,7 +14,21 @@
       logo: null
       url: https://www.bilibili.com/
       description: "bilibili干杯"
-      
+- taxonomy: 内网应用
+  icon: fa-star
+  links: 
+    - title: PVE
+      logo: null
+      url: https://192.168.10.11:8006/
+      description: null
+    - title: 小米网关
+      logo: null
+      url: http://192.168.10.1/
+      description: 
+    - title: 软路由网关
+      logo: null
+      url: http://192.168.10.2/
+      description: null
 - taxonomy: 学习
   icon: fa-star
   links: 
