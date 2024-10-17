@@ -29,6 +29,10 @@
       logo: null
       url: http://192.168.10.2/
       description: null
+    - title: 1panel面板
+      logo: null
+      url: http://192.168.10.160:8888/qiansu/
+      description: null
 - taxonomy: 学习
   icon: fa-star
   links: 
