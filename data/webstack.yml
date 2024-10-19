@@ -33,6 +33,11 @@
       logo: null
       url: http://192.168.10.160:8888/qiansu/
       description: null
+    - title: mcsm面板
+      logo: null
+      url: http://192.168.10.160:23333/
+      description: null
+      
 - taxonomy: 学习
   icon: fa-star
   links: 
