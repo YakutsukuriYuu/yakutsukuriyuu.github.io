@@ -18,6 +18,7 @@
       logo: null
       url: https://www.github.com/
       description: null
+
 - taxonomy: 内网应用
   icon: fa-star
   links: 
@@ -56,6 +57,18 @@
     - title: 超星学习通
       logo: null
       url: https://chaoxing.com/
+      description: null
+    - title: 网易邮箱
+      logo: null
+      url: https://mail.163.com/
+      description: null
+    - title: QQ邮箱
+      logo: null
+      url: https://mail.qq.com/
+      description: null
+    - title: 谷歌邮箱
+      logo: null
+      url: https://mail.google.com/
       description: null
 
 - taxonomy: 影视
