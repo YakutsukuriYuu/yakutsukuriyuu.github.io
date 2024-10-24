@@ -140,6 +140,13 @@
       logo: null
       url: https://yakutsukuriyuu.github.io/kittens-game/
       description: null
+- taxonomy: 成人链接
+  icon: fa-star
+  links: 
+    - title: 暂无
+      logo: null
+      url: null
+      description: null
     
 - taxonomy: 友情链接
   icon: fa-link
