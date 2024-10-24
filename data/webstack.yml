@@ -19,6 +19,19 @@
       url: https://www.github.com/
       description: null
 
+- taxonomy: 游戏网址
+  icon: fa-star
+  links: 
+    - title: 俄罗斯学习
+      logo: null
+      url: https://byrutgame.org/new-pcgames/
+      description: null
+    - title: OP辅助
+      logo: null
+      url: https://www.fuzhu86.com/OP/1163.html
+      description: null
+      
+   
 - taxonomy: 内网应用
   icon: fa-star
   links: 
@@ -102,6 +115,7 @@
       logo: null
       url: https://www.mgtv.com/
       description: null
+      
 
 - taxonomy: 网页放置游戏
   icon: fa-star
