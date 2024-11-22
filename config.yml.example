@@ -2,7 +2,7 @@ baseURL: "https://yakutsukuriyuu.github.io/"
 title: YakutsukuriYuu
 paginate: 15
 theme: PaperMod
-
+##
 enableRobotsTXT: true
 buildDrafts: false
 buildFuture: false
