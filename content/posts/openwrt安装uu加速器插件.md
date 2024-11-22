@@ -7,9 +7,9 @@ tags = ["uu加速器", "openwrt"]
 author ='Yuu'
 +++
 
-# openwrt安装uu加速器插件
 openwrt版本：21.02.7
-link:https://archive.openwrt.org/releases/21.02.7/targets/x86/64/
+
+link: [openwrt](https://archive.openwrt.org/releases/21.02.7/targets/x86/64/)
 
 建议21.x版本或者18.x
 
@@ -47,4 +47,8 @@ opkg install kmod-tun
 ls /dev/net/tun
 ```
 输出/dev/net/tun
+## 结束
+手机上下载uu加速器主机版，设置网关和dns指向openwrt的ip地址。
+
+绑定路由器，加速游戏。
 
