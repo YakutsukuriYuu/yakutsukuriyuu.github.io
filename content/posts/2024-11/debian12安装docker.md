@@ -1,6 +1,6 @@
 +++
 title = 'Debian12安装docker'
-date = '2024-11-24T19:32:16+08:00'
+date = '2024-11-24T18:32:16+08:00'
 draft = false
 categories = ["教程"]
 tags = ["debian12", "docker"]
