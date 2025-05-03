@@ -5,9 +5,8 @@ draft = false
 categories = ["深度学习"]
 tags = ["深度学习"]
 author ='Yuu'
-+++
 
-# win11下的深度学习环境搭建(wsl2)
++++
 
 ### 打开 PowerShell（以管理员身份），执行：
 
