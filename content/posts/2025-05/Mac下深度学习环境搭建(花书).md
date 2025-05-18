@@ -1,6 +1,6 @@
 +++
 title = 'Mac下深度学习环境搭建(花书)' 
-date = '2025-05-19T04:42:16+08:00' 
+date = '2025-05-19T04:22:16+08:00' 
 draft = false categories = ["深度学习"] 
 tags = ["深度学习"] 
 author ='Yuu'
