@@ -1,9 +1,11 @@
 +++
 title = 'Mac下深度学习环境搭建(花书)' 
 date = '2025-05-19T04:22:16+08:00' 
-draft = false categories = ["深度学习"] 
+draft = false 
+categories = ["深度学习"] 
 tags = ["深度学习"] 
 author ='Yuu'
+
 +++
 ## 安装miniconda3
 通过打开终端并运行以下命令之一（取决于您的 macOS 体系结构）来下载安装程序：.sh
