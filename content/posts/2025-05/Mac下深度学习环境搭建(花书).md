@@ -62,9 +62,11 @@ conda create --name d2l python=3.9 -y
 conda activate d2l
 pip install torch==1.12.0
 pip install torchvision==0.13.0
+#使用这个命令可以正常安装这个版本
+conda install conda-forge::d2l=0.17.6
+
+#这个安装不上，但是windows的话就可以
 #pip install d2l==0.17.6
-#发现这个版本安装不上,直接用最新版
-pip install d2l
 ~~~
 
 ## 下载D2L Notebook
