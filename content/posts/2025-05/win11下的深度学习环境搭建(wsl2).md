@@ -163,7 +163,7 @@ conda activate d2l
 
 ```bash
 pip install torch==1.12.0
-pip install torchvision=0.13.0
+pip install torchvision==0.13.0
 ```
 
 安装d2l软件包,是花书经常使用的函数和类
